@@ -1,0 +1,9 @@
+<CAT>
+  <SEVERITY> Critical </SEVERITY>
+  <ENVIRONMENT> MacOs ventura 13.1.1 </ENVIRONMENT>
+  <TITLE> Button of Download on the App Store and Get it on Google Play direct to App Astore </TITLE>
+  <STEPS> 1, 2, 3, 4, 5 </STEPS>
+  <EXPECTED RESULT> App Store -> App Store and Google Play -> Google Play </EXPECTED RESULT>
+  <ACTUAL RESULT> App Store and Google Play -> App Store </ACTUAL RESULT>
+  <LICENCE> All </LICENCE>
+</CAT>
